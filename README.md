@@ -1,6 +1,6 @@
 # 🔬 Equipe Sensores | Sensors Research Team
 
-**LabTel · Universidade Federal do Espírito Santo (UFES)**
+**[`LabTel · Universidade Federal do Espírito Santo (UFES)`](https://labtelufes.ufes.br/)**
 
 > Exploring sensing technologies to understand, assist, and connect people with the world around them. 🤖🦾🫱🏻‍🫲🏽
 
@@ -56,22 +56,22 @@ Our research focuses on **sensing technologies, intelligent systems, and assisti
 Explore os projetos de pesquisa da Equipe Sensores por área:
 
 * 🤖 [`CASTOR`](./CASTOR)
-* 🦾 [`Exoesqueleto Industrial`](./Exoesqueleto%20Industrial)
-* ✋ [`Exoesqueleto de Mão`](./Exoesqueleto%20de%20Mão)
-* 🦿 [`Próteses`](./Proteses)
-* 📡 [`Sensores – Aplicações`](./Sensores%20aplicacoes)
-* ❤️ [`Sensores Fisiológicos`](./Sensores%20Fisiologicas)
+* 🦾 [`Exoesqueleto Industrial`](./Exoesqueleto_industrial)
+* ✋ [`Exoesqueleto de Mão`](./Exoesqueleto_mao)
+* 🦿 [`Próteses`](./Protese)
+* 📡 [`Sensores – Aplicações`](./Sensores_aplicacoes)
+* ❤️ [`Sensores Fisiológicos`](./Sensores_fisiologicos)
 * 🔬 [`Outros`](./Outros)
 
 **🇬🇧 English**
 Explore our research projects by area:
 
 * 🤖 [`CASTOR`](./CASTOR)
-* 🦾 [`Industrial Exoskeleton`](./Exoesqueleto%20Industrial)
-* ✋ [`Hand Exoskeleton`](./Exoesqueleto%20de%20Mão)
-* 🦿 [`Prostheses`](./Proteses)
-* 📡 [`Sensors – Applications`](./Sensores%20aplicacoes)
-* ❤️ [`Physiological Sensors`](./Sensores%20Fisiologicas)
+* 🦾 [`Industrial Exoskeleton`](./Exoesqueleto_industrial)
+* ✋ [`Hand Exoskeleton`](./Exoesqueleto_mao)
+* 🦿 [`Prostheses`](./Protese)
+* 📡 [`Sensors – Applications`](./Sensores_aplicacoes)
+* ❤️ [`Physiological Sensors`](./Sensores_fisiologicos)
 * 🔬 [`Other`](./Outros)
 
 ---
