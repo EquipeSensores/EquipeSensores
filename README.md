@@ -18,8 +18,9 @@ Nossa pesquisa explora **sensores, sistemas inteligentes e tecnologias assistiva
 
 ### 🔎 Nossas áreas de pesquisa
 
-| 🤖 | **CASTOR**                  | Robótica social e tecnologias assistivas                        |
+| 📚 | **Projeto**                  | Descrição                        |
 | -- | --------------------------- | --------------------------------------------------------------- |
+| 🤖 | **CASTOR**                  | Robótica social e tecnologias assistivas                        |
 | 🦾 | **Exoesqueleto Industrial** | Sensoriamento e interação para aplicações industriais           |
 | ✋  | **Exoesqueleto de Mão**     | Tecnologias para assistência e reabilitação da mão              |
 | 🦿 | **Próteses**                | Sensores e tecnologias para dispositivos protéticos             |
@@ -39,8 +40,9 @@ Our research focuses on **sensing technologies, intelligent systems, and assisti
 
 ### 🔎 Our research areas
 
+| 📚 | **Project**                  | Description                        |
+| -- | --------------------------- | --------------------------------------------------------------- |
 | 🤖 | **CASTOR**                 | Social robotics and assistive technologies                    |
-| -- | -------------------------- | ------------------------------------------------------------- |
 | 🦾 | **Industrial Exoskeleton** | Sensing and interaction for industrial applications           |
 | ✋  | **Hand Exoskeleton**       | Technologies for hand assistance and rehabilitation           |
 | 🦿 | **Prostheses**             | Sensors and technologies for prosthetic devices               |
